@@ -1,7 +1,7 @@
 # TrashMailDomainDetector
 This is a solution to check whether an email domain originates from a trashmail server
 
-### Note: This made [@Dalk-Github](https://github.com/Dalk-Github) for my game hosting panel project ###
+### Note: This was made by [@Dalk-Github](https://github.com/Dalk-Github) for my game hosting panel project ###
 
 ## Example ##
 ```csharp
